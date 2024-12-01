@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diplomchik", "Diplomchik\Diplomchik.csproj", "{7CC3DD97-BC03-4CE8-B898-5EB519923285}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Diplom", "Setup Diplom\Setup Diplom.vdproj", "{FB662DD6-5CD6-42FD-86E2-6471D4798845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{7CC3DD97-BC03-4CE8-B898-5EB519923285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC3DD97-BC03-4CE8-B898-5EB519923285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC3DD97-BC03-4CE8-B898-5EB519923285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB662DD6-5CD6-42FD-86E2-6471D4798845}.Debug|Any CPU.ActiveCfg = Debug
+		{FB662DD6-5CD6-42FD-86E2-6471D4798845}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
