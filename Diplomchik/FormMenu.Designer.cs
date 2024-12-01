@@ -609,7 +609,7 @@
             guna2ButtonChangePassword.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 204);
             guna2ButtonChangePassword.ForeColor = System.Drawing.Color.Black;
             guna2ButtonChangePassword.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            guna2ButtonChangePassword.Location = new System.Drawing.Point(421, 326);
+            guna2ButtonChangePassword.Location = new System.Drawing.Point(421, 471);
             guna2ButtonChangePassword.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             guna2ButtonChangePassword.Name = "guna2ButtonChangePassword";
             guna2ButtonChangePassword.ShadowDecoration.CustomizableEdges = customizableEdges21;
